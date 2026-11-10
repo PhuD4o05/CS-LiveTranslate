@@ -1,0 +1,29 @@
+# Russian CS2 slang, incl. Russian typed in Latin letters. One entry per line:  slang = meaning
+# Meaning in plain Russian gets machine-translated; meaning in English is shown as-is.
+# See CONTRIBUTING.md before adding entries.
+
+# Latin-typed Russian -> Cyrillic, so the language is detected and translated
+davai = давай
+davay = давай
+bistro = быстро
+bystro = быстро
+privet = привет
+spasibo = спасибо
+pomogi = помоги
+cyka blyat = (swearing) damn it
+suka blyat = (swearing) damn it
+сука блять = (swearing) damn it
+cyka = сука
+suka = сука
+blyat = блять
+blyad = блядь
+
+# gaming words the model gets wrong
+нуб = noob
+нубы = noobs
+нубас = noob
+раш = rush
+изи = easy
+катка = match
+тиммейт = teammate
+тимейт = teammate

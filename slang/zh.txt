@@ -1,0 +1,27 @@
+# Chinese CS2 slang. One entry per line:  slang = meaning
+# Meaning in plain Chinese gets machine-translated; meaning in English is shown as-is.
+# See CONTRIBUTING.md before adding entries.
+
+# 菜 alone would also hit 蔬菜 (vegetables), so list the gaming uses
+太菜 = 太差
+真菜 = 真差
+好菜 = 好差
+很菜 = 很差
+菜鸡 = 新手
+菜鸟 = 新手
+起不来 = 买不起装备
+起枪 = 买枪
+下包 = 安放炸弹
+拆包 = 拆除炸弹
+白给 = 无意义地死
+送人头 = 无意义地死
+老六 = 躲在角落偷袭的人
+开挂 = 作弊
+挂逼 = 作弊的人
+演员 = 故意输的人
+架枪 = 守住位置
+补枪 = 帮队友报仇
+回防 = 回去防守
+666 = nice
+nmsl = (insult) your mom is dead
+sb = (insult) idiot
